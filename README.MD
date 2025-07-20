@@ -1,9 +1,11 @@
 # Hi, I'm Azylx001 👋
 
-**Pentester | Cyber Security Enthusiast | Music Producer**
+**Pentester | Cybersecurity Enthusiast | Music Producer**
 
-I specialize in **penetration testing**, **cybersecurity research**, and **backend/frontend development**.  
-Also passionate about creating music (EDM, Lo-fi, Synthwave) when I'm not coding.
+I’m passionate about exploring **system security, penetration testing, and building secure applications**.  
+When I’m not diving into code or testing systems, I enjoy producing music — from **EDM and Lo-fi to Synthwave**.  
+Always learning, experimenting, and working on projects that push both my **tech and creative skills** forward.
+
 
 ---
 
@@ -44,16 +46,18 @@ Also passionate about creating music (EDM, Lo-fi, Synthwave) when I'm not coding
 
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azyyyl&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azyyyl&layout=compact&theme=tokyonight)
+## 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azylx001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azylx001&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
-## 🎵 Fun Side
-Besides tech, I produce music and share it on streaming platforms.  
-Always exploring the intersection of **creativity and technology**.
+## 🎵 Outside of Coding
+When I’m not working on tech projects, I enjoy producing music —  
+experimenting with **EDM, Lo-fi, and Synthwave**, blending sound design with creativity.  
+Always curious about how **technology and music** can work together.
 
 ---
 
