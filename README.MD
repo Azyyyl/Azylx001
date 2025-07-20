@@ -47,10 +47,14 @@ Always learning, experimenting, and working on projects that push both my **tech
 
 ---
 ## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azylx001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azylx001&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Azylx001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azylx001&layout=compact&theme=tokyonight" alt="Top Languages" height="160">
+
+</div>
+
 
 ---
 
