@@ -50,8 +50,9 @@ Always learning, experimenting, and working on projects that push both my **tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azylx001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azylx001&layout=compact&theme=tokyonight" alt="Top Languages" height="160">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azyyyl&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azyyyl&layout=compact&theme=tokyonight)
+
 
 </div>
 
