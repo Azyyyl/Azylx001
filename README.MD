@@ -9,12 +9,39 @@ Also passionate about creating music (EDM, Lo-fi, Synthwave) when I'm not coding
 
 ## 🔧 Skills & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Golang-blue?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-ReactJs-blueviolet?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Pentesting-critical?logo=probot&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Golang-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-GraphQL-E10098?logo=graphql&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
+
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Security-Pentesting-FF0000?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Burp%20Suite-F56D34?logo=burpsuite&logoColor=white" />
+
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/Music-Producer-FF69B4?logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud&logoColor=white" />
 </p>
+
 
 ---
 
