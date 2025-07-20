@@ -31,7 +31,6 @@ Always exploring the intersection of **creativity and technology**.
 ---
 
 ### 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/)  
 - [GitHub](https://github.com/Azyyyl)
 
 ---
